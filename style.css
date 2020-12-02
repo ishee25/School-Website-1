@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+marquee{
+    background-color:chocolate;
+    color:azure;
+    font-size: 20px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    opacity:0.3;
+    width: 1000px;
+    margin: 8px auto;
+}
+img{
+    border-radius:10000px;
+}
+#map{
+    width:1600px;
+    height:500px;
+}
+#principal{
+    margin-top: 30px;
+}
+.innerspancontact #h33{
+    display: inline;
+}
+html{
+    scroll-behavior: smooth;
+}
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:9999;
+}
